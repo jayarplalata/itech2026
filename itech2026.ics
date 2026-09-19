@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//iTECH 2026//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:itech2026@feutech.edu.ph
+DTSTAMP:20260919T060000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:6th International Collaboration on Technology 2026 (iTECH 2026)
+LOCATION:FEU Tech Innovation Center
+DESCRIPTION:iTECH 2026 — Human-Centered Technology: Advancing Responsible and Inclusive Innovation.
+URL:https://bit.ly/iTECH2026Registration
+END:VEVENT
+END:VCALENDAR
